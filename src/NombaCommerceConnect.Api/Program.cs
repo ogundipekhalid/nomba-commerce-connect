@@ -42,7 +42,7 @@ if (app.Environment.IsDevelopment())
     using var scope = app.Services.CreateScope();
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
     db.Database.EnsureCreated();
-    // await NombaCommerceConnect.Api.DevDataSeeder.SeedIfEmptyAsync(db);
+    await NombaCommerceConnect.Api.DevDataSeeder.SeedIfEmptyAsync(db);
 }
 
 // --- Middleware pipeline --------------------------------------------------
