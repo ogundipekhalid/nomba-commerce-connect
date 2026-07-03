@@ -1,0 +1,7 @@
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Release\net8.0\publish\NombaCommerceConnect.Application.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Release\net8.0\publish\NombaCommerceConnect.Application.deps.json
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Release\net8.0\publish\NombaCommerceConnect.Application.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Release\net8.0\publish\NombaCommerceConnect.Domain.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Release\net8.0\publish\NombaCommerceConnect.Domain.pdb

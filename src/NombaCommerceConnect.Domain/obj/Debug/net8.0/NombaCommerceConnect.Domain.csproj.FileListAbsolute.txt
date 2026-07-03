@@ -1,0 +1,11 @@
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\bin\Debug\net8.0\NombaCommerceConnect.Domain.deps.json
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\bin\Debug\net8.0\NombaCommerceConnect.Domain.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\bin\Debug\net8.0\NombaCommerceConnect.Domain.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\obj\Debug\net8.0\NombaCommerceConnect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\obj\Debug\net8.0\NombaCommerceConnect.Domain.AssemblyInfoInputs.cache
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\obj\Debug\net8.0\NombaCommerceConnect.Domain.AssemblyInfo.cs
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\obj\Debug\net8.0\NombaCommerceConnect.Domain.csproj.CoreCompileInputs.cache
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\obj\Debug\net8.0\NombaCommerceConnect.Domain.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\obj\Debug\net8.0\refint\NombaCommerceConnect.Domain.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\obj\Debug\net8.0\NombaCommerceConnect.Domain.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\obj\Debug\net8.0\ref\NombaCommerceConnect.Domain.dll

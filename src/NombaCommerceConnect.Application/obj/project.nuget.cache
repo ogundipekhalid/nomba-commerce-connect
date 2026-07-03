@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4hIFcGpK/Y=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\khalid\\Desktop\\NombaCommerceConnect\\src\\NombaCommerceConnect.Application\\NombaCommerceConnect.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khalid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\khalid\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nomba Commerce Connect — Reference Storefront</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Nomba Commerce Connect</h1>
+    <p class="subtitle">Reference storefront demonstrating the connector's Checkout, Split Payment, Webhook, and Refund integration.</p>
+  </header>
+
+  <main>
+    <section id="products-section">
+      <h2>Products</h2>
+      <div id="products" class="grid"></div>
+    </section>
+
+    <aside id="cart-section">
+      <h2>Cart</h2>
+      <div id="cart-items"></div>
+      <p id="cart-total"></p>
+
+      <form id="checkout-form">
+        <label>Full name <input type="text" id="customerName" required /></label>
+        <label>Email <input type="email" id="customerEmail" required /></label>
+        <button type="submit" id="checkout-btn" disabled>Checkout with Nomba</button>
+      </form>
+
+      <div id="checkout-result"></div>
+    </aside>
+  </main>
+
+  <footer>
+    <p>Order status &amp; refund lookup: <input type="text" id="order-lookup" placeholder="Order ID" /> <button id="lookup-btn">Look up</button></p>
+    <div id="order-details"></div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

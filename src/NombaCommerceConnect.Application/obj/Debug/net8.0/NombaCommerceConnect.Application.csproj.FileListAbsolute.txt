@@ -1,0 +1,15 @@
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Debug\net8.0\NombaCommerceConnect.Application.deps.json
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Debug\net8.0\NombaCommerceConnect.Application.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Debug\net8.0\NombaCommerceConnect.Application.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Debug\net8.0\NombaCommerceConnect.Domain.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\bin\Debug\net8.0\NombaCommerceConnect.Domain.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\NombaCommerceConnect.Application.csproj.AssemblyReference.cache
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\NombaCommerceConnect.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\NombaCommerceConnect.Application.AssemblyInfoInputs.cache
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\NombaCommerceConnect.Application.AssemblyInfo.cs
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\NombaCommerceConnect.Application.csproj.CoreCompileInputs.cache
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\NombaCom.C2E305D0.Up2Date
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\NombaCommerceConnect.Application.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\refint\NombaCommerceConnect.Application.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\NombaCommerceConnect.Application.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Application\obj\Debug\net8.0\ref\NombaCommerceConnect.Application.dll

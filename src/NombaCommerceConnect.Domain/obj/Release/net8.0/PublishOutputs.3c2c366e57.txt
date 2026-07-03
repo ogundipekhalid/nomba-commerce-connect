@@ -1,0 +1,3 @@
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\bin\Release\net8.0\publish\NombaCommerceConnect.Domain.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\bin\Release\net8.0\publish\NombaCommerceConnect.Domain.deps.json
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Domain\bin\Release\net8.0\publish\NombaCommerceConnect.Domain.pdb

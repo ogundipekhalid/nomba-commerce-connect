@@ -1,0 +1,22 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      # Override these with real values once Nomba credentials are issued.
+      # With UseFakeClient=true (the default), the app runs fully without them.
+      - Nomba__UseFakeClient=true
+      - Nomba__BaseUrl=https://sandbox.nomba.com
+      - Nomba__ClientId=
+      - Nomba__ClientSecret=
+      - Nomba__AccountId=
+      - Nomba__WebhookSigningKey=
+    volumes:
+      - ncc-data:/app/data
+
+volumes:
+  ncc-data:

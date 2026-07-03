@@ -1,0 +1,17 @@
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\bin\Debug\net8.0\NombaCommerceConnect.Infrastructure.deps.json
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\bin\Debug\net8.0\NombaCommerceConnect.Infrastructure.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\bin\Debug\net8.0\NombaCommerceConnect.Infrastructure.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\bin\Debug\net8.0\NombaCommerceConnect.Application.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\bin\Debug\net8.0\NombaCommerceConnect.Domain.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\bin\Debug\net8.0\NombaCommerceConnect.Application.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\bin\Debug\net8.0\NombaCommerceConnect.Domain.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\NombaCommerceConnect.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\NombaCommerceConnect.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\NombaCommerceConnect.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\NombaCommerceConnect.Infrastructure.AssemblyInfo.cs
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\NombaCommerceConnect.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\NombaCom.7584AB9D.Up2Date
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\NombaCommerceConnect.Infrastructure.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\refint\NombaCommerceConnect.Infrastructure.dll
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\NombaCommerceConnect.Infrastructure.pdb
+c:\Users\khalid\Desktop\NombaCommerceConnect\src\NombaCommerceConnect.Infrastructure\obj\Debug\net8.0\ref\NombaCommerceConnect.Infrastructure.dll
